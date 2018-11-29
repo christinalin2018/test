@@ -6,4 +6,3 @@ Two
 Three
 Four
 five
-six
